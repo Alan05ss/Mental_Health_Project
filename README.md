@@ -42,10 +42,6 @@ and anonymous peer counselor connections.
 ## Key Findings
 
 
----
 
-## Deliverables
-- [ ] Workshop 1 — Systems Analysis Report (PDF)
-- [ ] System Architecture Diagram
-- [ ] Process Flow Diagram
-- [ ] Data Collection Results
+
+
