@@ -50,8 +50,9 @@ Process Documentation:
 
 The workflow of the proposed system was documented to understand how users would interact with the platform. This includes steps such as user registration, accessing support resources, connecting with peer counselors, and scheduling counseling appointments.
 
-
 The collected data and analysis results are stored in the /data and /analysis directories of this repository.
+
+
 ---
 
 ## Key Findings
