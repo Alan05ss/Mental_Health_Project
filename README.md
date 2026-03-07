@@ -9,7 +9,7 @@ Universidad Distrital Francisco José de Caldas
 | Name | Student ID |
 |------|------------|
 | Alan Santiago Agudelo Sarmiento | 20222020170 |
-| [Name] | [ID] |
+| Julian Ernesto Romero Gutierrez | 20231020164 |
 | [Name] | [ID] |
 | [Name] | [ID] |
 
