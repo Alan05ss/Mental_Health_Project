@@ -10,7 +10,7 @@ Universidad Distrital Francisco José de Caldas
 |------|------------|
 | Alan Santiago Agudelo Sarmiento | 20222020170 |
 | Julian Ernesto Romero Gutierrez | 20231020164 |
-| [Name] | [ID] |
+| Juan David Cardozo Trujillo | 20231020155 |
 | [Name] | [ID] |
 
 **Professor:** Eng. Carlos Andrés Sierra, M.Sc.
