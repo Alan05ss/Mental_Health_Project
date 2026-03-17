@@ -29,7 +29,6 @@ Digital peer support platform designed to address the growing mental health chal
 | /diagrams | System architecture diagrams and process flow maps |
 | /docs | Final PDF reports and academic documents |
 | /analysis | Analysis scripts and methodology documentation |
-| /Workshop_2_Design | System Design Document and supporting materials |
 
 ---
 
