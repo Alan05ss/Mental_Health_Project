@@ -1,0 +1,10 @@
+Calibration Metric,Survey Count,Rate,95% CI Low,95% CI High,Simulation Use
+Anxiety/emotional difficulty,22/25,0.88,0.7004380781662651,0.9583325864293191,Base probability that a Student may request support.
+Never sought help,17/25,0.68,0.48409913734576715,0.8279501248310887,Represents the access barrier that the platform tries to reduce.
+Interested in platform,19/25,0.76,0.5656994004476144,0.8850384226967327,Base probability of Student registration before trust adjustment.
+Prefers anonymity,16/25,0.64,0.44518154601046633,0.7975234356826436,Privacy validation target for Anonymous Communication.
+Wants all support options,17/25,0.68,0.48409913734576715,0.8279501248310887,Justifies Resource Library + Peer Counselor + Professional Counselor pathways.
+Open to peer discussion,17/25,0.68,0.48409913734576715,0.8279501248310887,Adjusts expected acceptance of the Matching System.
+Believes platform helps,23/25,0.92,0.7503348787704218,0.977780066308908,Base confidence in successful digital support matching.
+Does not know current services,14/25,0.56,0.37067017019564436,0.7333462505299744,Validates the need for visibility and onboarding metrics.
+Frequent/constant stress,18/25,0.72,0.5242302810344169,0.8571632616261843,Supports peak demand assumptions during academic pressure.

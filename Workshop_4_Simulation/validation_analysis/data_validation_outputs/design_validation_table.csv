@@ -1,0 +1,6 @@
+Validation Area,Metric Used,Threshold,Worst / Key Scenario,Observed Result,Status,Interpretation,Score
+Architecture Validation,"Modular coverage of Registration, Matching System, Anonymous Communication, Appointment Scheduling, Resource Library",All core modules represented,All scenarios,All modules represented as independent validation concerns,Pass,The simulation validates the modular architecture by testing each critical module as a separate metric group.,1.0
+Scalability Validation,P95 Average Response Time (min),<= 30 minutes,Midterm/Finals Stress Scenario,54.58 minutes,Fail,"High demand or counselor shortage can exceed the target, so surge capacity is required before exams.",0.549648686307915
+Privacy Validation,Privacy Coverage Rate,>= 99%,Trust Collapse Scenario,85.00%,Fail,Trust Collapse shows why privacy communication and consent controls must be continuously monitored.,0.8585858585858586
+Matching Validation,Mean Match Success Rate,>= 80%,Trust Collapse Scenario,43.70%,Fail,The Matching System performs well in baseline but degrades when trust drops or demand exceeds capacity.,0.5462018645638588
+Availability and Burnout Validation,Burnout Risk Rate,<= 5%,Midterm/Finals Stress Scenario,40.19%,Fail,"Session caps protect Peer Counselors, but demand spikes still require redistributing load and recruiting a buffer pool.",0.12441937624419377
