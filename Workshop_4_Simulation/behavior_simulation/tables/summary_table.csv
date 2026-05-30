@@ -1,0 +1,5 @@
+Scenario,Avg Trust Level,Min Trust Level,Avg Burnout Index,Max Burnout Index,Avg Active Students,Avg Dropout Rate (%),Total Unmet Demand,Stabilised Runs (%),Collapsed Runs (%),Avg Recovery (wk)
+Baseline Scenario,0.979,0.877,0.000,0.000,387,0.23%,0,100.0%,0.0%,5.0
+Midterm/Finals Stress Scenario,0.979,0.877,0.141,0.447,387,0.26%,148,90.0%,0.0%,6.0
+Counselor Shortage Scenario,0.977,0.876,0.300,0.613,333,0.72%,22,82.3%,0.0%,6.1
+Trust Collapse Scenario,0.772,0.562,0.000,0.000,352,1.22%,0,32.3%,23.3%,5.7
